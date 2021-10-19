@@ -36,7 +36,7 @@ body {
 }
 
 
-.content {
+main {
     display: flex;
     justify-content: center;
     /* height & margin needed to get the attribution sticky */
